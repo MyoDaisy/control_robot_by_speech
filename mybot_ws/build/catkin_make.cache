@@ -1,0 +1,2 @@
+mybot:mybot_control:mybot_description
+-DCATKIN_DEVEL_PREFIX=/home/duc/mybot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/duc/mybot_ws/install -G Unix Makefiles

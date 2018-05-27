@@ -1,5 +1,4 @@
-# control_robot_by_speech
-
+# mybot_ws
 In terminal run: catkin_make
 
 In mybot_ws/src/mybot_control/Node
